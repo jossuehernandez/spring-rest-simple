@@ -28,3 +28,10 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+# Jave related
+target/**
+*.jar
+*.war
+*.ear
+*.class
