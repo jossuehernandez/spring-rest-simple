@@ -4,7 +4,7 @@ public class Greeting {
 
     private final long id;
     private final String content;
-    private final String ident;
+    //private final String ident;
 
     public Greeting(long id, String content) {
         this.id = id;
